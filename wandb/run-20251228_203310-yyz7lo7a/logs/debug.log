@@ -20,3 +20,5 @@ config: {'exp_name': 'sac_continuous_action_modified', 'seed': 1, 'torch_determi
 2025-12-28 20:33:15,021 INFO    MainThread:4896 [wandb_run.py:_redirect():2461] Redirects installed.
 2025-12-28 20:33:15,030 INFO    MainThread:4896 [wandb_init.py:init():1081] run started, returning control to user process
 2025-12-28 20:33:15,031 INFO    MainThread:4896 [wandb_run.py:_tensorboard_callback():1607] tensorboard callback: runs/UR5-v0__sac_continuous_action_modified__1__1766921586, True
+2025-12-28 22:51:17,277 INFO    wandb-AsyncioManager-main:4896 [service_client.py:_forward_responses():80] Reached EOF.
+2025-12-28 22:51:17,355 INFO    wandb-AsyncioManager-main:4896 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.
