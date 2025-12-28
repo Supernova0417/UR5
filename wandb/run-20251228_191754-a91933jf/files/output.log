@@ -1,0 +1,3717 @@
+[ENV] ee_site_name='ee_site', ee_sid=3
+[ENV] joints=6, actuators=6, ctrl_mode=position
+[ENV] ee_site body='wrist_3_link' (id=7), local pos=[0.  0.1 0. ]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37584461 -0.05448052  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+C:\Users\wlsrn\anaconda3\envs\ur5\lib\site-packages\gymnasium\core.py:311: UserWarning: [33mWARN: env.goal_pos to get variables from other wrappers is deprecated and will be removed in v1.0, to get this variable you can do `env.unwrapped.goal_pos` for environment variables or `env.get_wrapper_attr('goal_pos')` that will search the reminding wrappers.[0m
+  logger.warn(
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45452078 -0.02790127  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=319, episodic_return=[8.494808], success=False
+SPS: 73
+Success rate: 0.000
+[34m[1mwandb[0m: [33mWARNING[0m Step cannot be set when using tensorboard syncing. Please use `run.define_metric(...)` to define a custom metric to log your step values.
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42722135  0.28844232  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=1084, episodic_return=[11.20362], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48262016  0.07409385  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=1145, episodic_return=[-5.4114265], success=False
+SPS: 77
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49064756  0.0847969   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=2169, episodic_return=[25.162199], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38704547 -0.21124678  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=2535, episodic_return=[13.252256], success=False
+SPS: 74
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48776711  0.21313618  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=3547, episodic_return=[12.922163], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39201359  0.20134153  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=3565, episodic_return=[-7.9916673], success=False
+SPS: 78
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42766814  0.23682952  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=4169, episodic_return=[7.2728353], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36717196  0.09621323  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=4420, episodic_return=[-2.7811902], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47532391 -0.0749118   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=4595, episodic_return=[-4.427305], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43682168 -0.23644726  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=5080, episodic_return=[13.08499], success=False
+SPS: 83
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40517973  0.18616461  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=5362, episodic_return=[-4.068539], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48902149 -0.14531813  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=5822, episodic_return=[0.84360504], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43161066  0.051911    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=6025, episodic_return=[0.47031], success=False
+SPS: 86
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46951377 -0.12971611  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=6288, episodic_return=[-1.964898], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38610972  0.05819264  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=6472, episodic_return=[1.5837188], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48009556  0.00363895  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=6908, episodic_return=[4.9114122], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43975457 -0.12285945  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=7099, episodic_return=[2.171321], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35379608  0.07515689  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=7121, episodic_return=[-7.497987], success=False
+SPS: 87
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35176716  0.15498352  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=7917, episodic_return=[8.369607], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42596427  0.28295905  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=7954, episodic_return=[-6.6557174], success=False
+SPS: 89
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45447366  0.29941553  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=8352, episodic_return=[2.1476262], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38588168 -0.28410927  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=8601, episodic_return=[4.344913], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44183463  0.17499372  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=9188, episodic_return=[6.9238133], success=False
+SPS: 90
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46230986 -0.25487333  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=9427, episodic_return=[7.6946077], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47198095  0.10481364  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=9457, episodic_return=[-7.114237], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39239424 -0.13421219  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=9728, episodic_return=[2.8739834], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35640584  0.2724908   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=10064, episodic_return=[3.6688507], success=False
+SPS: 91
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44596042 -0.24384789  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=10333, episodic_return=[0.8504865], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40239914  0.06390485  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=10510, episodic_return=[7.338348], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4877213  -0.17012785  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=10849, episodic_return=[11.94552], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49072296 -0.2442048   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=11157, episodic_return=[5.94109], success=False
+SPS: 91
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36883382 -0.04874819  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=11416, episodic_return=[6.100004], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48618666  0.07905132  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=12257, episodic_return=[11.630688], success=False
+SPS: 92
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39607067 -0.20175501  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=13281, episodic_return=[19.66237], success=False
+SPS: 93
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38671676 -0.26076062  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=14305, episodic_return=[16.759436], success=False
+SPS: 94
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41364423  0.27999744  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=15329, episodic_return=[53.070454], success=False
+SPS: 95
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46249725 -0.06042539  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=16353, episodic_return=[23.923883], success=False
+SPS: 96
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47932658  0.29024996  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=16984, episodic_return=[25.079403], success=False
+SPS: 97
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48800862 -0.13692892  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=18008, episodic_return=[19.420462], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48097779  0.18380936  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=18064, episodic_return=[-4.6392546], success=False
+SPS: 97
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.421667   -0.01257989  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=19088, episodic_return=[17.295645], success=False
+SPS: 97
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45444739 -0.19536966  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=20112, episodic_return=[30.751158], success=False
+SPS: 98
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49224891  0.1965571   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=21136, episodic_return=[20.542759], success=False
+SPS: 98
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40515005 -0.07131748  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=22160, episodic_return=[25.017586], success=False
+SPS: 98
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35512578  0.11477724  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=23184, episodic_return=[50.76431], success=False
+SPS: 98
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42842458 -0.0684906   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=24208, episodic_return=[45.551197], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3518841  -0.05640674  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=24481, episodic_return=[11.815031], success=False
+SPS: 98
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35573949  0.08774214  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=24924, episodic_return=[29.38782], success=False
+SPS: 99
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44734642  0.28448066  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=25948, episodic_return=[79.39085], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3910363   0.22082286  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=26248, episodic_return=[16.046114], success=False
+SPS: 99
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42297983 -0.14356517  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=27272, episodic_return=[67.58851], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3799994   0.08577007  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=28296, episodic_return=[72.454475], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41660284  0.044186    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=28687, episodic_return=[25.954441], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46685463 -0.20005009  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=28880, episodic_return=[7.6433187], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36110537 -0.29876589  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=29007, episodic_return=[1.9436548], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39287496  0.2785354   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=29198, episodic_return=[10.1488], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37956712  0.23293778  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=29322, episodic_return=[2.6622548], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43711196 -0.14105274  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=29553, episodic_return=[10.830304], success=False
+SPS: 99
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42019834 -0.08217401  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=30577, episodic_return=[18.056568], success=False
+SPS: 99
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47967185  0.17508005  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=31601, episodic_return=[66.9527], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46171813  0.14766054  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=31815, episodic_return=[8.185688], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39595765  0.02315667  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=32141, episodic_return=[16.801212], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47929457 -0.04546199  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=32294, episodic_return=[5.8306336], success=False
+SPS: 99
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45060163  0.06414061  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=33318, episodic_return=[80.541374], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49362112  0.19590526  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=34342, episodic_return=[80.03067], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38173699  0.00115776  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=35366, episodic_return=[71.58906], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45494799  0.08139298  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=36390, episodic_return=[77.17565], success=False
+SPS: 100
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48651219  0.20041757  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=37414, episodic_return=[59.139893], success=False
+SPS: 101
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43484032  0.22251387  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=38237, episodic_return=[47.75817], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41864621 -0.07902843  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=38389, episodic_return=[-3.3496637], success=False
+SPS: 101
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3657919  -0.13685654  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=39413, episodic_return=[73.03118], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39659833 -0.16898664  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=39539, episodic_return=[-2.5908961], success=False
+SPS: 101
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46606282 -0.20240918  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=40563, episodic_return=[78.72102], success=False
+SPS: 101
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3707631   0.25300612  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=41587, episodic_return=[73.12331], success=False
+SPS: 101
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37159875 -0.04041926  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=42611, episodic_return=[75.94553], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40860749  0.20184333  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=43635, episodic_return=[87.072044], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46737679 -0.00165951  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=44659, episodic_return=[90.10304], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41307446 -0.07694877  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=45683, episodic_return=[87.49596], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46225022 -0.23350754  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=46707, episodic_return=[89.78216], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40523727  0.19181531  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=47731, episodic_return=[90.2537], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3564374  -0.08279037  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=48378, episodic_return=[38.130142], success=False
+SPS: 102
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40951248  0.08406447  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=49402, episodic_return=[93.774864], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43539563 -0.13273035  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=50426, episodic_return=[89.29952], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39423073  0.21816105  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=51450, episodic_return=[88.92023], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35659518 -0.24975238  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=52474, episodic_return=[87.59632], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44994013 -0.1087561   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=53498, episodic_return=[91.66586], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47479441 -0.25499331  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=54522, episodic_return=[93.40045], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39322845  0.15287485  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=55546, episodic_return=[91.790405], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37986482 -0.10035388  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=56570, episodic_return=[92.65099], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40674943  0.15132896  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=57594, episodic_return=[92.76592], success=False
+SPS: 103
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39325332  0.22322146  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=58618, episodic_return=[89.6704], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37983303  0.08545172  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=59642, episodic_return=[89.79555], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35407514  0.24795078  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=60666, episodic_return=[91.21033], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49854325 -0.10380308  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=61690, episodic_return=[89.075035], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47142825  0.27573066  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=62714, episodic_return=[91.98259], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43630154  0.13147303  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=63738, episodic_return=[84.360565], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35421444  0.20264859  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=64762, episodic_return=[89.40554], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35997117  0.27104148  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=65786, episodic_return=[85.8393], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43467583 -0.12971856  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=66810, episodic_return=[82.69046], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40911935 -0.17096962  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=67834, episodic_return=[93.387436], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39105269  0.15512024  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=68858, episodic_return=[92.523895], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47284949 -0.12733063  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=69882, episodic_return=[90.74654], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37179805  0.21722388  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=70906, episodic_return=[91.05285], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47109843 -0.07948786  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=71099, episodic_return=[8.131885], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48119151 -0.01728215  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=72123, episodic_return=[93.69037], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38477124 -0.15599261  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=73147, episodic_return=[92.84115], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41070174  0.02646387  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=74171, episodic_return=[94.57272], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35988434  0.27638866  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=75063, episodic_return=[71.84483], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37067319 -0.0557866   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=75755, episodic_return=[48.443047], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45257309  0.29047901  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=76779, episodic_return=[94.3433], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36785656 -0.09960703  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=77803, episodic_return=[88.723755], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37623722  0.06980502  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=78827, episodic_return=[91.74265], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4135131   0.29407115  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=79851, episodic_return=[94.03539], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47940493 -0.0224722   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=80875, episodic_return=[89.52695], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40145907 -0.0810365   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=81899, episodic_return=[86.477005], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40422373  0.01632039  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=82923, episodic_return=[80.62274], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4930033   0.27051971  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=83947, episodic_return=[88.11853], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36433547  0.01934772  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=84477, episodic_return=[30.501884], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43339407 -0.26240468  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=85501, episodic_return=[86.09632], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38469762 -0.12799573  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=85641, episodic_return=[-1.3668923], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35938562 -0.28874028  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=85768, episodic_return=[0.8505537], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43044875 -0.0201606   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=85919, episodic_return=[1.4573385], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46498195 -0.05806469  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=86943, episodic_return=[90.080444], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49769235 -0.11837582  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=87561, episodic_return=[44.932556], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36641176 -0.25354968  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=87741, episodic_return=[-2.4557316], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3871243  -0.02392654  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=87999, episodic_return=[3.4376523], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36257839 -0.0872594   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=89023, episodic_return=[88.024956], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39047204  0.01147994  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=90047, episodic_return=[87.23032], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40191529  0.06585343  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=91071, episodic_return=[92.31246], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43644796 -0.17754064  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=92095, episodic_return=[86.785835], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47210043  0.21289972  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=93119, episodic_return=[79.459915], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46560675  0.14778543  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=94143, episodic_return=[80.21365], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48023505 -0.07693376  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=95167, episodic_return=[81.569466], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4756255  0.1176767  0.2905   ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=96191, episodic_return=[87.82985], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37868345 -0.04072926  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=97215, episodic_return=[92.772064], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46038751 -0.09820353  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=98239, episodic_return=[92.79914], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43379732 -0.04809215  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=99263, episodic_return=[91.18426], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38110578 -0.02061749  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=100287, episodic_return=[93.03633], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43703937  0.09773415  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=101311, episodic_return=[89.273544], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42207343 -0.0740845   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=102335, episodic_return=[93.34401], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35762059  0.08449259  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=103359, episodic_return=[92.87964], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38114472 -0.2871274   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=104383, episodic_return=[91.04313], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35160584 -0.09981823  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=105407, episodic_return=[90.28397], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47094316 -0.09136257  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=106431, episodic_return=[90.02053], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37197559 -0.20994207  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=107455, episodic_return=[91.94157], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49445175  0.16115083  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=108479, episodic_return=[93.14113], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42760939  0.15093724  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=109503, episodic_return=[89.713715], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49761654  0.08269141  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=110527, episodic_return=[87.429], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41511688  0.24007569  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=111551, episodic_return=[88.04714], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35803849 -0.20934579  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=112575, episodic_return=[88.649765], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40347075  0.10010509  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=113599, episodic_return=[90.69191], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37006378 -0.10215707  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=114623, episodic_return=[91.53955], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3698368  -0.23568179  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=115647, episodic_return=[94.2382], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4755657   0.22402748  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=116671, episodic_return=[93.851425], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45552367 -0.09745002  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=116970, episodic_return=[17.993505], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47568617 -0.23890851  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=117994, episodic_return=[94.790245], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41066988  0.29659992  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=119018, episodic_return=[93.16048], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44343883  0.22501585  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=120042, episodic_return=[88.48358], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47724562 -0.23855572  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=121066, episodic_return=[91.33301], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36388513  0.22222016  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=122090, episodic_return=[93.85738], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42570095  0.0966945   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=123114, episodic_return=[92.26144], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41703427 -0.06632909  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=124138, episodic_return=[92.086235], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37120136  0.22481004  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=125162, episodic_return=[89.51279], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4044549   0.07715277  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=126186, episodic_return=[87.88796], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40095416 -0.20081362  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=127210, episodic_return=[78.0423], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44807026 -0.22943727  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=128234, episodic_return=[93.74701], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40231159  0.03751759  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=129258, episodic_return=[92.93386], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48791797 -0.0773085   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=130282, episodic_return=[91.57232], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45297546 -0.24637898  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=131306, episodic_return=[93.44699], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49546959  0.16394057  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=131519, episodic_return=[11.019943], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38437519 -0.04548098  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=132051, episodic_return=[37.677586], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47840292  0.02934076  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=132728, episodic_return=[53.439114], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35441964 -0.23638253  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=133752, episodic_return=[93.157166], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41993309  0.21859737  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=134776, episodic_return=[94.21957], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39024937 -0.26528813  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=135800, episodic_return=[92.135956], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38546211 -0.14931521  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=136824, episodic_return=[93.62818], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45018714  0.05832366  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=137848, episodic_return=[94.06072], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4111597   0.20034169  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=138872, episodic_return=[94.084335], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36970199 -0.09833564  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=139896, episodic_return=[91.40729], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47133785  0.19390428  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=140565, episodic_return=[53.10078], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35530441 -0.15267688  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=140972, episodic_return=[27.862234], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37371335  0.04093183  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=141996, episodic_return=[92.150024], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36809978  0.00973794  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=143020, episodic_return=[93.959915], success=False
+SPS: 104
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46167738 -0.27096793  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=144044, episodic_return=[93.91478], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49923415  0.17773643  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=145068, episodic_return=[94.3223], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4119872   0.29418006  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=146092, episodic_return=[92.332565], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37898917 -0.24959817  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=147116, episodic_return=[92.57992], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39919908 -0.17462555  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=148140, episodic_return=[91.613464], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49780737  0.06095906  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=149164, episodic_return=[95.388756], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44485102  0.13434763  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=150188, episodic_return=[92.7163], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45769796  0.27575349  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=151212, episodic_return=[92.40864], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49892186  0.28948122  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=152236, episodic_return=[93.35269], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47843402 -0.07075623  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=153260, episodic_return=[92.62175], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44955526 -0.18772178  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=154284, episodic_return=[92.853874], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40981907 -0.27471029  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=155308, episodic_return=[94.63507], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43924968  0.21178817  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=156332, episodic_return=[67.45332], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36718568 -0.2479111   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=157356, episodic_return=[92.97443], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49023074 -0.02584051  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=158380, episodic_return=[93.909065], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40924367  0.13155341  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=159404, episodic_return=[92.02981], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42317993 -0.16251788  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=160428, episodic_return=[90.69119], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4408356   0.11130427  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=161165, episodic_return=[31.334696], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49335456  0.22581711  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=161686, episodic_return=[35.724014], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45160021 -0.16712912  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=162367, episodic_return=[50.34495], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44389112  0.11275611  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=162916, episodic_return=[40.608746], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46908314 -0.09908471  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=163852, episodic_return=[71.05414], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41837933 -0.15747516  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=164876, episodic_return=[94.112816], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37967277 -0.28496457  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=165900, episodic_return=[94.63006], success=False
+SPS: 105
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46476352  0.28556538  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=166924, episodic_return=[93.51715], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3923517   0.16401282  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=167948, episodic_return=[92.82049], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48364667 -0.00149405  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=168972, episodic_return=[94.30864], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44013405 -0.02848278  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=169996, episodic_return=[93.41814], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39714336 -0.03588763  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=171020, episodic_return=[94.31648], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41347336  0.19302196  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=172044, episodic_return=[95.35792], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47338705 -0.00653016  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=173068, episodic_return=[92.70182], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41407321  0.2073022   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=174092, episodic_return=[92.1721], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4755512  -0.21779107  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=175116, episodic_return=[90.77636], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49366529  0.08210364  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=176140, episodic_return=[93.9253], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43605163 -0.06267712  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=177164, episodic_return=[93.86357], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47465373 -0.03341021  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=178188, episodic_return=[93.57348], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35141982 -0.01747518  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=179212, episodic_return=[94.755844], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35054398  0.0079089   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=180236, episodic_return=[94.10376], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47506912  0.24990982  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=181260, episodic_return=[92.32721], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39578298 -0.19376914  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=182284, episodic_return=[90.834114], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36007715 -0.10715446  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=183308, episodic_return=[93.669754], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48440341 -0.27673254  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=184332, episodic_return=[92.874016], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43102431 -0.22600486  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=185356, episodic_return=[92.52421], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44918246  0.18021019  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=186380, episodic_return=[93.40623], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41212489 -0.2720252   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=187404, episodic_return=[90.58748], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45350636  0.03016601  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=188428, episodic_return=[93.23118], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4508222   0.02922079  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=189452, episodic_return=[91.74728], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43170968  0.027201    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=190476, episodic_return=[92.346245], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44092727 -0.20272881  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=191500, episodic_return=[93.900856], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49179905  0.25164207  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=192524, episodic_return=[93.11054], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38705011  0.04630634  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=193548, episodic_return=[91.93694], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47436164 -0.09263513  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=194572, episodic_return=[92.936005], success=False
+SPS: 106
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44138974 -0.25657783  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=195596, episodic_return=[94.5616], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3975498  -0.18235496  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=196620, episodic_return=[93.27899], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38219901 -0.27519181  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=197644, episodic_return=[93.233376], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4878394   0.04552513  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=198668, episodic_return=[91.94074], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46792897 -0.23788207  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=199692, episodic_return=[94.07742], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38899976  0.05251419  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=200716, episodic_return=[94.74261], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49129779  0.0031935   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=201740, episodic_return=[93.70761], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36926359 -0.22069385  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=202764, episodic_return=[93.726006], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45696339  0.04948349  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=203423, episodic_return=[51.16729], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43516921  0.16550071  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=204232, episodic_return=[64.63067], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37333009  0.2684667   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=205256, episodic_return=[93.030815], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36325719 -0.2801483   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=206280, episodic_return=[92.71172], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41556925 -0.14275758  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=207304, episodic_return=[63.564957], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42576125  0.0047536   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=208328, episodic_return=[93.54556], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49929977  0.20699489  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=209352, episodic_return=[94.6826], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46037584 -0.08536542  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=210376, episodic_return=[93.16267], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45269231  0.01607424  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=211400, episodic_return=[95.281845], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42197671 -0.26028017  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=212424, episodic_return=[91.9698], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45538008  0.11193635  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=213448, episodic_return=[95.43889], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36610357 -0.15435815  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=214472, episodic_return=[88.47791], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39049017  0.03270882  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=215496, episodic_return=[96.341965], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46426503 -0.04734263  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=216520, episodic_return=[95.01191], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47610335 -0.29565804  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=217544, episodic_return=[93.634346], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47167298 -0.13749363  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=218568, episodic_return=[61.884697], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35862637  0.25300148  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=219592, episodic_return=[90.550865], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43680996  0.09488539  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=220616, episodic_return=[92.37372], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43410343 -0.25753386  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=221640, episodic_return=[93.990265], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48438958 -0.22757064  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=222664, episodic_return=[94.265625], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38986583 -0.25622257  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=223688, episodic_return=[94.45374], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43838883 -0.18283528  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=224712, episodic_return=[94.30747], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42283118  0.05116371  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=225736, episodic_return=[94.43039], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41564027  0.02441063  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=226760, episodic_return=[93.763336], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35939194  0.02486391  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=227784, episodic_return=[93.035866], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45085258  0.12500752  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=228808, episodic_return=[94.041435], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49809992  0.08912251  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=229832, episodic_return=[93.2191], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47556887  0.14274478  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=230856, episodic_return=[92.731476], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45848552 -0.28981821  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=231549, episodic_return=[54.1179], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40194281 -0.10547374  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=232573, episodic_return=[86.897514], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48744348 -0.01877634  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=233597, episodic_return=[89.5286], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3638493   0.13563005  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=234621, episodic_return=[93.13106], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39636693  0.26007023  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=235645, episodic_return=[94.02786], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48757473  0.27225084  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=236295, episodic_return=[27.422613], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36087024 -0.00169691  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=237319, episodic_return=[92.84109], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38675586 -0.22154288  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=238343, episodic_return=[91.95574], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46190991 -0.092995    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=239367, episodic_return=[92.74848], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43209652 -0.08863407  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=240391, episodic_return=[86.77595], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37909335  0.08498586  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=240925, episodic_return=[39.982727], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4251516  -0.02166012  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=241475, episodic_return=[20.182886], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45690402 -0.23496314  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=242141, episodic_return=[37.5287], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37924839 -0.02245313  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=243165, episodic_return=[92.55155], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46509636 -0.0356661   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=243784, episodic_return=[21.987276], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43896285  0.10915339  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=244808, episodic_return=[77.55007], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42418301 -0.27869048  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=245832, episodic_return=[92.90267], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47626467  0.02996587  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=246856, episodic_return=[93.216515], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41295995  0.16718923  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=247880, episodic_return=[93.98773], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41667493  0.00697473  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=248904, episodic_return=[91.42552], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37253332 -0.14098668  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=249928, episodic_return=[88.06016], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45115243 -0.11729682  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=250952, episodic_return=[92.68409], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38344356 -0.11642359  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=251976, episodic_return=[93.93892], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35198234  0.07167654  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=253000, episodic_return=[88.13967], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49220409  0.13392026  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=254024, episodic_return=[94.56612], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41498876  0.16648119  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=255048, episodic_return=[92.42025], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40972273  0.26538981  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=256072, episodic_return=[93.21205], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46345449  0.2452045   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=257096, episodic_return=[91.43965], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37236991 -0.23444581  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=258120, episodic_return=[90.6583], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41262882 -0.05843083  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=259144, episodic_return=[93.38552], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4522467   0.23858035  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=260168, episodic_return=[76.62674], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37437252 -0.05783993  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=261192, episodic_return=[90.151306], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42100175  0.13068716  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=262216, episodic_return=[94.22978], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38163172 -0.20732561  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=263240, episodic_return=[92.94064], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41493998 -0.15358124  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=264264, episodic_return=[93.09766], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35247314 -0.11672285  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=265288, episodic_return=[82.030785], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40135502  0.26215869  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=266312, episodic_return=[93.99423], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42803632  0.21153765  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=267336, episodic_return=[87.012024], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49988476 -0.28087248  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=268360, episodic_return=[93.57822], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44255119  0.11857618  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=269384, episodic_return=[92.16312], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3769     -0.18633368  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=270408, episodic_return=[87.35696], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35537899  0.20936836  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=271432, episodic_return=[95.37653], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44983238  0.16040213  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=272456, episodic_return=[93.76856], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36723495 -0.26584511  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=273480, episodic_return=[93.32204], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45438089  0.21926473  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=274504, episodic_return=[95.22777], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48863393  0.25024652  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=274680, episodic_return=[8.0239725], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48024695 -0.27031857  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=275704, episodic_return=[91.701935], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41768165  0.18525966  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=276728, episodic_return=[94.01548], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41475609  0.14515149  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=277184, episodic_return=[32.981903], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44483077  0.18132296  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=278208, episodic_return=[92.38666], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47095634  0.002177    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=279232, episodic_return=[92.76451], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4179518  -0.07979365  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=280256, episodic_return=[94.42743], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43553888 -0.14145874  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=281280, episodic_return=[94.91505], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48900628  0.15299989  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=282304, episodic_return=[95.54616], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43004538 -0.01837468  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=283328, episodic_return=[89.07705], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41511535 -0.19368479  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=284352, episodic_return=[94.25475], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38696705  0.237286    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=285376, episodic_return=[94.52657], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44177203 -0.0469471   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=286400, episodic_return=[93.28481], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40483189  0.27210933  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=287424, episodic_return=[94.1058], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38199286 -0.23239356  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=288448, episodic_return=[86.673004], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49840288 -0.03798876  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=289472, episodic_return=[89.52896], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47734094  0.07427629  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=290496, episodic_return=[91.15006], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41197983  0.23615141  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=291520, episodic_return=[88.87376], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48486971 -0.03335623  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=292544, episodic_return=[91.37031], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42420155  0.05676526  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=293568, episodic_return=[91.47009], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46294785  0.06315529  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=294592, episodic_return=[90.83746], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49541819  0.17887122  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=295616, episodic_return=[89.11603], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42488906 -0.10461244  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=296640, episodic_return=[89.15474], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35342453  0.00864915  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=297664, episodic_return=[89.25578], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39236535  0.03225167  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=298688, episodic_return=[92.08151], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40211016 -0.28240318  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=299712, episodic_return=[93.37359], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35732326 -0.22038134  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=300736, episodic_return=[91.04616], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43125644  0.2953111   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=301760, episodic_return=[93.305084], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39090247  0.0985564   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=302784, episodic_return=[92.2881], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49240402 -0.01896016  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=303808, episodic_return=[93.7272], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43063523 -0.17076121  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=304832, episodic_return=[91.78308], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43434432 -0.25599851  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=305856, episodic_return=[91.59874], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46181102 -0.07514698  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=306880, episodic_return=[92.338036], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36823765 -0.21700167  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=307904, episodic_return=[92.00513], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46996941 -0.22969664  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=308928, episodic_return=[92.769554], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49799741 -0.1357423   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=309952, episodic_return=[93.81611], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38110853 -0.10549324  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=310976, episodic_return=[93.32225], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37648686 -0.0116963   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=312000, episodic_return=[95.08428], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42049268  0.18524584  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=313024, episodic_return=[94.03551], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47883434  0.23300321  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=314048, episodic_return=[92.21909], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48536807 -0.05473211  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=315072, episodic_return=[91.58466], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38486057  0.00076606  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=316096, episodic_return=[93.228905], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37238819 -0.28123823  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=317120, episodic_return=[94.32209], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39337051  0.23492071  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=318144, episodic_return=[91.79904], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46291045 -0.15686472  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=319168, episodic_return=[91.678215], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45054058 -0.24314563  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=320192, episodic_return=[91.69416], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43691415 -0.22833143  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=321216, episodic_return=[89.96747], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4593211   0.28412853  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=322240, episodic_return=[90.04804], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45497613 -0.18820986  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=323264, episodic_return=[91.02585], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4940757   0.19075501  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=324288, episodic_return=[88.13812], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41867844 -0.23268992  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=325312, episodic_return=[83.452034], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44676504  0.25881386  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=326336, episodic_return=[88.54703], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39997168  0.27482281  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=327360, episodic_return=[86.494606], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35706498  0.19151212  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=328384, episodic_return=[91.21542], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43209397  0.06664142  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=329408, episodic_return=[88.92855], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39104652  0.22095311  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=330432, episodic_return=[86.69358], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45169741  0.25678159  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=331456, episodic_return=[84.56096], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46052166  0.20521956  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=332480, episodic_return=[88.90732], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41495607 -0.2117888   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=333504, episodic_return=[87.4457], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47856012  0.09607497  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=334528, episodic_return=[86.46088], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46398725  0.20561579  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=335552, episodic_return=[88.241936], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44522521 -0.08539175  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=336576, episodic_return=[85.41129], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35604431  0.02144308  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=337600, episodic_return=[78.04088], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49325056  0.16994394  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=338624, episodic_return=[74.74207], success=False
+SPS: 108
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35184579  0.0560323   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=339648, episodic_return=[80.58461], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36040575 -0.12286081  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=340672, episodic_return=[82.94724], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49211276 -0.17954258  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=341696, episodic_return=[31.330679], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48316623  0.07056248  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=342720, episodic_return=[57.47171], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44780315 -0.11644861  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=343744, episodic_return=[59.542465], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36305228 -0.26256355  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=344768, episodic_return=[67.07959], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4351102  -0.23881329  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=345792, episodic_return=[49.86997], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49094896  0.11311805  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=346816, episodic_return=[81.744354], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40077721  0.26480283  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=347840, episodic_return=[90.61698], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46241113  0.11393278  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=348864, episodic_return=[89.150925], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36965608 -0.24637458  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=349888, episodic_return=[55.28833], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38086827 -0.29808028  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=350912, episodic_return=[45.781757], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41762022  0.14638412  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=351936, episodic_return=[53.88334], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38557326 -0.20473525  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=352960, episodic_return=[85.484184], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46454026  0.1550968   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=353984, episodic_return=[60.113895], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48687574  0.29193346  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=355008, episodic_return=[90.39076], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48264379  0.10776278  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=356032, episodic_return=[67.188866], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37599218 -0.22190066  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=357056, episodic_return=[56.82771], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4911014   0.14280187  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=358080, episodic_return=[93.17969], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35756077 -0.19066829  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=359104, episodic_return=[85.447365], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44301643 -0.20192905  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=360128, episodic_return=[85.96626], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45877745  0.05481753  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=361152, episodic_return=[82.323395], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35114601 -0.15376366  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=362176, episodic_return=[61.860695], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36401326  0.09495933  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=363200, episodic_return=[88.89275], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39512235 -0.26374396  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=364224, episodic_return=[72.7085], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45419116  0.12332344  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=365248, episodic_return=[83.67353], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4927693   0.27706046  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=366272, episodic_return=[85.33386], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40554181  0.27323615  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=367296, episodic_return=[80.88311], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44928251  0.26171197  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=368320, episodic_return=[86.20445], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37386864 -0.1085663   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=369344, episodic_return=[86.74826], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36815603 -0.12256857  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=370368, episodic_return=[86.88691], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35704077 -0.01436632  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=371392, episodic_return=[91.412384], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48831734  0.16743031  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=372416, episodic_return=[81.2957], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37637677 -0.19672986  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=373440, episodic_return=[79.805595], success=False
+SPS: 107
+Success rate: 0.000
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38834366 -0.28995623  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=373861, episodic_return=[152.09581], success=True
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36083844  0.27830904  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=374885, episodic_return=[88.15971], success=False
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38088178 -0.24952866  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=375909, episodic_return=[81.17119], success=False
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44870753  0.11100308  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=376933, episodic_return=[78.0274], success=False
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37555359  0.01636623  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=377957, episodic_return=[78.48926], success=False
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49920536  0.28660083  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=378981, episodic_return=[90.205246], success=False
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35048645  0.23681861  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=380005, episodic_return=[84.84591], success=False
+SPS: 107
+Success rate: 0.002
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46832818 -0.19008147  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=381029, episodic_return=[79.91457], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41045219  0.2995887   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=381296, episodic_return=[139.1895], success=True
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39545949  0.23851439  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=382320, episodic_return=[88.17855], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47129735  0.13838584  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=383344, episodic_return=[91.86234], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37658704  0.13999584  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=384368, episodic_return=[92.180244], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37340052  0.07183779  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=385392, episodic_return=[90.98662], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.424539    0.17463973  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=386416, episodic_return=[92.55648], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40129914  0.10815084  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=387440, episodic_return=[91.72737], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48373837 -0.27362344  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=388464, episodic_return=[95.497116], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38303241  0.13185009  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=388878, episodic_return=[32.176003], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47342611  0.27654453  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=389902, episodic_return=[92.14008], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46245452 -0.02958305  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=390926, episodic_return=[89.24177], success=False
+SPS: 107
+Success rate: 0.005
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39508311 -0.10643043  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=391950, episodic_return=[91.262505], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47051889 -0.09780371  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=392146, episodic_return=[132.46678], success=True
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35997997  0.21444223  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=393170, episodic_return=[86.53279], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38928056  0.28957525  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=394194, episodic_return=[90.63497], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40300175  0.11167623  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=395218, episodic_return=[86.00988], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43291519 -0.13723983  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=396242, episodic_return=[90.680374], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48603328 -0.22758772  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=397266, episodic_return=[100.21489], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37229215 -0.2675649   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=398290, episodic_return=[89.791084], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40856098 -0.18393493  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=399314, episodic_return=[91.33499], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43422261 -0.01590073  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=400338, episodic_return=[100.51874], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47058529 -0.12099817  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=401362, episodic_return=[97.77121], success=False
+SPS: 107
+Success rate: 0.007
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41557004  0.02265699  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=401733, episodic_return=[147.83356], success=True
+SPS: 107
+Success rate: 0.009
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48041503  0.26483381  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=402757, episodic_return=[92.429214], success=False
+SPS: 107
+Success rate: 0.009
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45532007 -0.29013607  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=403781, episodic_return=[84.5822], success=False
+SPS: 107
+Success rate: 0.009
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40208789  0.07150828  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=404805, episodic_return=[92.024376], success=False
+SPS: 107
+Success rate: 0.009
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35683976  0.10829193  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=405829, episodic_return=[93.09189], success=False
+SPS: 107
+Success rate: 0.009
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47052237 -0.04887363  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=406853, episodic_return=[92.70097], success=False
+SPS: 107
+Success rate: 0.009
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44704915 -0.13704183  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=407877, episodic_return=[93.254364], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38539147 -0.21059933  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=407988, episodic_return=[126.19072], success=True
+SPS: 107
+Success rate: 0.011
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49884813 -0.13457266  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=409012, episodic_return=[96.24287], success=False
+SPS: 107
+Success rate: 0.011
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48193415  0.15871965  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=409718, episodic_return=[179.17949], success=True
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46136373  0.16719352  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=410742, episodic_return=[86.8464], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39220079 -0.03667141  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=411766, episodic_return=[89.18527], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42025814 -0.24923591  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=412790, episodic_return=[95.75067], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43670251  0.0037969   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=413814, episodic_return=[96.26259], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36813386 -0.23666475  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=414838, episodic_return=[98.10094], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45639836  0.02599264  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=415862, episodic_return=[95.70028], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4567485   0.22188485  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=416886, episodic_return=[94.23739], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48093646  0.00227859  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=417910, episodic_return=[91.8494], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49597221  0.2579098   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=418934, episodic_return=[94.655136], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35164524 -0.22987709  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=419958, episodic_return=[91.06492], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48419362 -0.08869836  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=420982, episodic_return=[95.31859], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4259567   0.17469536  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=422006, episodic_return=[97.511826], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4461026  -0.01035079  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=423030, episodic_return=[91.86753], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47759289  0.12974898  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=424054, episodic_return=[96.64811], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46192626  0.11081423  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=425078, episodic_return=[91.98243], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4731267   0.12518112  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=426102, episodic_return=[89.50043], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40261414 -0.00299601  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=427126, episodic_return=[92.3157], success=False
+SPS: 107
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4364385  0.1191556  0.2905   ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=428150, episodic_return=[95.65161], success=False
+SPS: 106
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4143784  -0.18382373  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=429174, episodic_return=[89.4887], success=False
+SPS: 106
+Success rate: 0.013
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44970235 -0.09486738  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=430198, episodic_return=[96.87853], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43545165 -0.06427855  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=431077, episodic_return=[184.7168], success=True
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48598014  0.14294166  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=432101, episodic_return=[92.93344], success=False
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45551238  0.03442125  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=433125, episodic_return=[85.63952], success=False
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42491316 -0.26463589  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=434149, episodic_return=[92.837616], success=False
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45763222  0.2406325   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=435173, episodic_return=[95.14246], success=False
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45224103  0.05349786  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=436197, episodic_return=[78.9575], success=False
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46396713 -0.22009712  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=437221, episodic_return=[88.42689], success=False
+SPS: 107
+Success rate: 0.015
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35300502 -0.26461412  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=438245, episodic_return=[98.311104], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37094294  0.13596776  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=439269, episodic_return=[87.85091], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48947491  0.20909553  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=440293, episodic_return=[92.226875], success=False
+SPS: 106
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45539861 -0.02863911  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=441317, episodic_return=[87.59353], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40862411 -0.29294717  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=442341, episodic_return=[98.7901], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39442229 -0.04808622  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=443365, episodic_return=[93.56092], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45951692  0.06773083  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=444389, episodic_return=[100.99302], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45883684  0.01161819  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=445413, episodic_return=[95.73], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38860977  0.23856021  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=446437, episodic_return=[96.550415], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48847007 -0.06111285  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=447461, episodic_return=[89.53963], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47552272  0.16040221  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=448485, episodic_return=[102.90608], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47480617 -0.03250027  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=449509, episodic_return=[94.64219], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47705058 -0.1807335   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=450533, episodic_return=[93.69097], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48277607  0.07729743  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=451557, episodic_return=[100.62127], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45654883 -0.04583738  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=452581, episodic_return=[96.48807], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46526591  0.14340124  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=453605, episodic_return=[93.921234], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.43733969 -0.08857174  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=454629, episodic_return=[89.625916], success=False
+SPS: 107
+Success rate: 0.014
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39386599  0.22110979  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=454775, episodic_return=[129.80173], success=True
+SPS: 107
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36972743  0.0559981   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=455799, episodic_return=[89.28511], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.45884159  0.017261    0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=456823, episodic_return=[90.63455], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41909368  0.17565303  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=457794, episodic_return=[78.984344], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41948412 -0.26257161  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=458818, episodic_return=[89.59038], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36935507  0.12251999  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=459842, episodic_return=[96.782555], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36905432  0.11872345  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=460866, episodic_return=[92.38521], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3538923  0.2082307  0.2905   ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=461890, episodic_return=[90.73204], success=False
+SPS: 106
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48724992 -0.20842096  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=462914, episodic_return=[89.2453], success=False
+SPS: 107
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41193457  0.16009426  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=463938, episodic_return=[94.76452], success=False
+SPS: 107
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48669394  0.0252899   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=464962, episodic_return=[93.8216], success=False
+SPS: 107
+Success rate: 0.016
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39801551 -0.25883391  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=465986, episodic_return=[95.301926], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41853508 -0.06904269  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=466044, episodic_return=[123.676765], success=True
+SPS: 107
+Success rate: 0.018
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49657838 -0.16990085  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=467068, episodic_return=[94.64077], success=False
+SPS: 107
+Success rate: 0.018
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4915655   0.14246634  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=468092, episodic_return=[100.2268], success=False
+SPS: 107
+Success rate: 0.018
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4051644   0.22660518  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=469116, episodic_return=[92.37563], success=False
+SPS: 107
+Success rate: 0.017
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49464513  0.24554294  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=470140, episodic_return=[90.597305], success=False
+SPS: 107
+Success rate: 0.017
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36850136  0.07877586  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=471164, episodic_return=[90.51678], success=False
+SPS: 107
+Success rate: 0.017
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48540083 -0.23767503  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=472188, episodic_return=[93.641266], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35530146 -0.21615631  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=472252, episodic_return=[124.46334], success=True
+SPS: 107
+Success rate: 0.019
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37092866  0.09416622  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=473276, episodic_return=[93.40891], success=False
+SPS: 107
+Success rate: 0.019
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48858521  0.08482166  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=474300, episodic_return=[93.52537], success=False
+SPS: 107
+Success rate: 0.019
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36259619 -0.16436822  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=475324, episodic_return=[92.90622], success=False
+SPS: 107
+Success rate: 0.019
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37925058 -0.24153544  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=476348, episodic_return=[98.121], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.49288412 -0.22721977  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=476407, episodic_return=[124.88073], success=True
+SPS: 107
+Success rate: 0.021
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46963409  0.15299644  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=477431, episodic_return=[101.31254], success=False
+SPS: 107
+Success rate: 0.021
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.4542058  -0.06960528  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=478455, episodic_return=[87.12986], success=False
+SPS: 107
+Success rate: 0.021
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35725029  0.07587667  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=479479, episodic_return=[102.05578], success=False
+SPS: 107
+Success rate: 0.021
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.41448485  0.18683813  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=480503, episodic_return=[94.99939], success=False
+SPS: 107
+Success rate: 0.021
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46736275 -0.00559454  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=481527, episodic_return=[91.634674], success=False
+SPS: 106
+Success rate: 0.021
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47699738 -0.10827794  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=482551, episodic_return=[100.22807], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.42293761 -0.2336542   0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=483189, episodic_return=[174.40903], success=True
+SPS: 106
+Success rate: 0.023
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48625931 -0.22560462  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=484213, episodic_return=[97.9849], success=False
+SPS: 106
+Success rate: 0.023
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47071944  0.13555444  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=485237, episodic_return=[99.660164], success=False
+SPS: 106
+Success rate: 0.023
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37966876  0.02774373  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=486261, episodic_return=[92.675644], success=False
+SPS: 105
+Success rate: 0.022
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48160074  0.26851246  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=487285, episodic_return=[96.51486], success=False
+SPS: 105
+Success rate: 0.022
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44316552 -0.23225159  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=488309, episodic_return=[88.66642], success=False
+SPS: 105
+Success rate: 0.022
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36149334  0.14343824  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=489333, episodic_return=[100.11926], success=False
+SPS: 105
+Success rate: 0.022
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.37093897 -0.11689102  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=490357, episodic_return=[95.62371], success=False
+SPS: 105
+Success rate: 0.022
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.47127657  0.15582764  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=490513, episodic_return=[130.58743], success=True
+SPS: 105
+Success rate: 0.024
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35063921 -0.26849196  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=491537, episodic_return=[95.3722], success=False
+SPS: 105
+Success rate: 0.024
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48816933  0.10284411  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=492561, episodic_return=[97.079445], success=False
+SPS: 105
+Success rate: 0.024
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40553269  0.26202831  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=493585, episodic_return=[91.64773], success=False
+SPS: 105
+Success rate: 0.024
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.3862128   0.19238176  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=494609, episodic_return=[89.93391], success=False
+SPS: 105
+Success rate: 0.024
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44493389 -0.10861731  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=495633, episodic_return=[91.57722], success=False
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35558622  0.18567667  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=495815, episodic_return=[133.11095], success=True
+SPS: 106
+Success rate: 0.026
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44789963  0.18442628  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=496839, episodic_return=[92.02465], success=False
+SPS: 106
+Success rate: 0.026
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.36151205  0.28397547  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=497863, episodic_return=[93.670044], success=False

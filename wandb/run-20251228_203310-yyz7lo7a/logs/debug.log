@@ -1,0 +1,11 @@
+2025-12-28 20:33:10,118 INFO    MainThread:4896 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-28 20:33:10,119 INFO    MainThread:4896 [wandb_setup.py:_flush():80] Configure stats pid to 4896
+2025-12-28 20:33:10,119 INFO    MainThread:4896 [wandb_setup.py:_flush():80] Loading settings from C:\Users\wlsrn\.config\wandb\settings
+2025-12-28 20:33:10,119 INFO    MainThread:4896 [wandb_setup.py:_flush():80] Loading settings from D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\settings
+2025-12-28 20:33:10,121 INFO    MainThread:4896 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-28 20:33:10,123 INFO    MainThread:4896 [wandb_init.py:setup_run_log_directory():714] Logging user logs to D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\run-20251228_203310-yyz7lo7a\logs\debug.log
+2025-12-28 20:33:10,123 INFO    MainThread:4896 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\run-20251228_203310-yyz7lo7a\logs\debug-internal.log
+2025-12-28 20:33:10,135 INFO    MainThread:4896 [wandb_init.py:init():841] calling init triggers
+2025-12-28 20:33:10,135 INFO    MainThread:4896 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'exp_name': 'sac_continuous_action_modified', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'ur5', 'wandb_entity': None, 'capture_video': False, 'save_model': True, 'env_id': 'UR5-v0', 'total_timesteps': 500000, 'num_envs': 1, 'buffer_size': 1000000, 'gamma': 0.99, 'tau': 0.005, 'batch_size': 256, 'learning_starts': 5000.0, 'policy_lr': 0.0003, 'q_lr': 0.001, 'policy_frequency': 2, 'target_network_frequency': 1, 'alpha': 0.2, 'autotune': True, 'target_mode': 'random', 'target_pos': None, '_wandb': {'code_path': 'code/cleanrl/cleanrl/sac_continuous_action_modified.py'}}
+2025-12-28 20:33:10,136 INFO    MainThread:4896 [wandb_init.py:init():889] starting backend

@@ -1,0 +1,11 @@
+2025-12-28 19:17:54,769 INFO    MainThread:23056 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-28 19:17:54,770 INFO    MainThread:23056 [wandb_setup.py:_flush():80] Configure stats pid to 23056
+2025-12-28 19:17:54,770 INFO    MainThread:23056 [wandb_setup.py:_flush():80] Loading settings from C:\Users\wlsrn\.config\wandb\settings
+2025-12-28 19:17:54,770 INFO    MainThread:23056 [wandb_setup.py:_flush():80] Loading settings from D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\settings
+2025-12-28 19:17:54,772 INFO    MainThread:23056 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-28 19:17:54,772 INFO    MainThread:23056 [wandb_init.py:setup_run_log_directory():714] Logging user logs to D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\run-20251228_191754-a91933jf\logs\debug.log
+2025-12-28 19:17:54,773 INFO    MainThread:23056 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\run-20251228_191754-a91933jf\logs\debug-internal.log
+2025-12-28 19:17:54,784 INFO    MainThread:23056 [wandb_init.py:init():841] calling init triggers
+2025-12-28 19:17:54,784 INFO    MainThread:23056 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'exp_name': 'ppo_continuous_action', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'ur5', 'wandb_entity': None, 'capture_video': False, 'save_model': True, 'upload_model': False, 'hf_entity': '', 'env_id': 'UR5-v0', 'total_timesteps': 500000, 'learning_rate': 0.0003, 'num_envs': 1, 'num_steps': 1024, 'anneal_lr': True, 'gamma': 0.99, 'gae_lambda': 0.95, 'num_minibatches': 32, 'update_epochs': 10, 'norm_adv': True, 'clip_coef': 0.2, 'clip_vloss': True, 'ent_coef': 0.0, 'vf_coef': 0.5, 'max_grad_norm': 0.5, 'target_kl': None, 'target_mode': 'random', 'target_pos': None, 'batch_size': 1024, 'minibatch_size': 32, 'num_iterations': 488, '_wandb': {'code_path': 'code/cleanrl/cleanrl/ppo_continuous_action.py'}}
+2025-12-28 19:17:54,784 INFO    MainThread:23056 [wandb_init.py:init():889] starting backend
