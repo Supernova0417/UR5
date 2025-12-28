@@ -3715,3 +3715,72 @@ Success rate: 0.026
 [RESET] goal_pos= [-0.36151205  0.28397547  0.2905    ]
 [RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
 global_step=497863, episodic_return=[93.670044], success=False
+SPS: 106
+Success rate: 0.026
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48845509  0.12226122  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+global_step=498887, episodic_return=[90.044464], success=False
+SPS: 106
+Success rate: 0.026
+model saved to runs/UR5-v0__ppo_continuous_action__1__1766917072/ppo_continuous_action.cleanrl_model
+[ENV] ee_site_name='ee_site', ee_sid=3
+[ENV] joints=6, actuators=6, ctrl_mode=position
+[ENV] ee_site body='wrist_3_link' (id=7), local pos=[0.  0.1 0. ]
+D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\cleanrl\cleanrl_utils\evals\ppo_eval.py:20: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  agent.load_state_dict(torch.load(model_path, map_location=device))
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40900463  0.13769794  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39055168 -0.19460663  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=0, episodic_return=[94.69191]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39940634  0.08831371  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=1, episodic_return=[102.21941]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.39673299 -0.06664715  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=2, episodic_return=[96.15507]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.35989347 -0.08532288  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=3, episodic_return=[101.97033]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.46592636  0.07391229  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=4, episodic_return=[99.14942]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.44958244 -0.20983232  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=5, episodic_return=[97.20646]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48638704  0.04819943  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=6, episodic_return=[102.37402]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.40563378  0.25629273  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=7, episodic_return=[96.90022]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.38634067 -0.00154638  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=8, episodic_return=[92.37036]
+[RESET] IK solver disabled; keeping initial configuration.
+[RESET] start_pos= [0.4    0.     0.2905]
+[RESET] goal_pos= [-0.48276011  0.13740907  0.2905    ]
+[RESET] random_box= [-0.5  -0.35 -0.3   0.3 ]
+eval_episode=9, episodic_return=[98.51903]

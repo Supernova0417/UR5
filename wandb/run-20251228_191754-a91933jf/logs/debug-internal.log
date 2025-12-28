@@ -1,1 +1,26 @@
 {"time":"2025-12-28T19:17:57.5734658+09:00","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2025-12-28T19:17:58.4508957+09:00","level":"INFO","msg":"stream: created new stream","id":"a91933jf"}
+{"time":"2025-12-28T19:17:58.4511457+09:00","level":"INFO","msg":"handler: started","stream_id":"a91933jf"}
+{"time":"2025-12-28T19:17:58.4536947+09:00","level":"INFO","msg":"stream: started","id":"a91933jf"}
+{"time":"2025-12-28T19:17:58.4536947+09:00","level":"INFO","msg":"sender: started","stream_id":"a91933jf"}
+{"time":"2025-12-28T19:17:58.4536947+09:00","level":"INFO","msg":"writer: started","stream_id":"a91933jf"}
+{"time":"2025-12-28T19:18:09.9324767+09:00","level":"WARN","msg":"tensorboard: no root directory","error":"timed out after 10s"}
+{"time":"2025-12-28T19:18:09.9354766+09:00","level":"INFO","msg":"tensorboard: tracking new log directory","rootDir":{},"logDir":"LocalOrCloudPath(LocalPath=\"D:\\\\★박진권★\\\\★고려대학교★\\\\4-2 정리해야함\\\\지능로봇공학(영강)\\\\final\\\\UR5\\\\runs\\\\UR5-v0__ppo_continuous_action__1__1766917072\")","namespace":""}
+{"time":"2025-12-28T19:18:09.9829829+09:00","level":"INFO","msg":"tensorboard: saving file","fileLocation":"D:\\★박진권★\\★고려대학교★\\4-2 정리해야함\\지능로봇공학(영강)\\final\\UR5\\runs\\UR5-v0__ppo_continuous_action__1__1766917072\\events.out.tfevents.1766917079.LAPTOP1-SUPERNOVA.23056.0","runPath":"runs/UR5-v0__ppo_continuous_action__1__1766917072/events.out.tfevents.1766917079.LAPTOP1-SUPERNOVA.23056.0"}
+{"time":"2025-12-28T19:36:23.6801649+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":8303}
+{"time":"2025-12-28T19:36:23.6811636+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":1}
+{"time":"2025-12-28T19:36:43.7253762+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":8434}
+{"time":"2025-12-28T19:36:43.7270663+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":5}
+{"time":"2025-12-28T19:50:20.7246222+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":14325}
+{"time":"2025-12-28T19:50:20.7251533+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":6}
+{"time":"2025-12-28T20:11:55.6153228+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":23365}
+{"time":"2025-12-28T20:11:55.6163243+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":6}
+{"time":"2025-12-28T20:23:13.6007626+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":27973}
+{"time":"2025-12-28T20:23:13.6007626+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":1}
+{"time":"2025-12-28T20:36:29.7508496+09:00","level":"INFO","msg":"flowcontrol: backed up, offloading to disk","recordNumber":33221}
+{"time":"2025-12-28T20:36:29.751848+09:00","level":"INFO","msg":"flowcontrol: unblocked","totalOffloaded":1}
+{"time":"2025-12-28T20:37:47.4335748+09:00","level":"INFO","msg":"stream: closing","id":"a91933jf"}
+{"time":"2025-12-28T20:37:48.4140017+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-28T20:37:48.6644718+09:00","level":"INFO","msg":"handler: closed","stream_id":"a91933jf"}
+{"time":"2025-12-28T20:37:48.6675102+09:00","level":"INFO","msg":"sender: closed","stream_id":"a91933jf"}
+{"time":"2025-12-28T20:37:48.6680434+09:00","level":"INFO","msg":"stream: closed","id":"a91933jf"}

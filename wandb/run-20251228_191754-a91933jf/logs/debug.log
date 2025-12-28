@@ -9,3 +9,16 @@
 2025-12-28 19:17:54,784 INFO    MainThread:23056 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
 config: {'exp_name': 'ppo_continuous_action', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'ur5', 'wandb_entity': None, 'capture_video': False, 'save_model': True, 'upload_model': False, 'hf_entity': '', 'env_id': 'UR5-v0', 'total_timesteps': 500000, 'learning_rate': 0.0003, 'num_envs': 1, 'num_steps': 1024, 'anneal_lr': True, 'gamma': 0.99, 'gae_lambda': 0.95, 'num_minibatches': 32, 'update_epochs': 10, 'norm_adv': True, 'clip_coef': 0.2, 'clip_vloss': True, 'ent_coef': 0.0, 'vf_coef': 0.5, 'max_grad_norm': 0.5, 'target_kl': None, 'target_mode': 'random', 'target_pos': None, 'batch_size': 1024, 'minibatch_size': 32, 'num_iterations': 488, '_wandb': {'code_path': 'code/cleanrl/cleanrl/ppo_continuous_action.py'}}
 2025-12-28 19:17:54,784 INFO    MainThread:23056 [wandb_init.py:init():889] starting backend
+2025-12-28 19:17:57,506 INFO    MainThread:23056 [wandb_init.py:init():892] sending inform_init request
+2025-12-28 19:17:57,554 INFO    MainThread:23056 [wandb_init.py:init():900] backend started and connected
+2025-12-28 19:17:57,601 INFO    MainThread:23056 [wandb_init.py:init():970] updated telemetry
+2025-12-28 19:17:57,675 INFO    MainThread:23056 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-28 19:17:58,810 INFO    MainThread:23056 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-28 19:17:59,906 INFO    MainThread:23056 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-28 19:17:59,908 INFO    MainThread:23056 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-28 19:17:59,908 INFO    MainThread:23056 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-28 19:17:59,909 INFO    MainThread:23056 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-28 19:17:59,920 INFO    MainThread:23056 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-28 19:17:59,921 INFO    MainThread:23056 [wandb_run.py:_tensorboard_callback():1607] tensorboard callback: runs/UR5-v0__ppo_continuous_action__1__1766917072, True
+2025-12-28 20:37:47,433 INFO    wandb-AsyncioManager-main:23056 [service_client.py:_forward_responses():80] Reached EOF.
+2025-12-28 20:37:47,435 INFO    wandb-AsyncioManager-main:23056 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.

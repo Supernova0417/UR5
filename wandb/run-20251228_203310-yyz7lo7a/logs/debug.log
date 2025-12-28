@@ -9,3 +9,14 @@
 2025-12-28 20:33:10,135 INFO    MainThread:4896 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
 config: {'exp_name': 'sac_continuous_action_modified', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'ur5', 'wandb_entity': None, 'capture_video': False, 'save_model': True, 'env_id': 'UR5-v0', 'total_timesteps': 500000, 'num_envs': 1, 'buffer_size': 1000000, 'gamma': 0.99, 'tau': 0.005, 'batch_size': 256, 'learning_starts': 5000.0, 'policy_lr': 0.0003, 'q_lr': 0.001, 'policy_frequency': 2, 'target_network_frequency': 1, 'alpha': 0.2, 'autotune': True, 'target_mode': 'random', 'target_pos': None, '_wandb': {'code_path': 'code/cleanrl/cleanrl/sac_continuous_action_modified.py'}}
 2025-12-28 20:33:10,136 INFO    MainThread:4896 [wandb_init.py:init():889] starting backend
+2025-12-28 20:33:12,669 INFO    MainThread:4896 [wandb_init.py:init():892] sending inform_init request
+2025-12-28 20:33:12,730 INFO    MainThread:4896 [wandb_init.py:init():900] backend started and connected
+2025-12-28 20:33:12,787 INFO    MainThread:4896 [wandb_init.py:init():970] updated telemetry
+2025-12-28 20:33:12,858 INFO    MainThread:4896 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-28 20:33:13,540 INFO    MainThread:4896 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-28 20:33:15,019 INFO    MainThread:4896 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-28 20:33:15,020 INFO    MainThread:4896 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-28 20:33:15,020 INFO    MainThread:4896 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-28 20:33:15,021 INFO    MainThread:4896 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-28 20:33:15,030 INFO    MainThread:4896 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-28 20:33:15,031 INFO    MainThread:4896 [wandb_run.py:_tensorboard_callback():1607] tensorboard callback: runs/UR5-v0__sac_continuous_action_modified__1__1766921586, True
