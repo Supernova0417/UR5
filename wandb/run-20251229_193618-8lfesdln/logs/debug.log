@@ -1,0 +1,24 @@
+2025-12-29 19:36:18,297 INFO    MainThread:16684 [wandb_setup.py:_flush():80] Current SDK version is 0.23.1
+2025-12-29 19:36:18,298 INFO    MainThread:16684 [wandb_setup.py:_flush():80] Configure stats pid to 16684
+2025-12-29 19:36:18,298 INFO    MainThread:16684 [wandb_setup.py:_flush():80] Loading settings from C:\Users\wlsrn\.config\wandb\settings
+2025-12-29 19:36:18,298 INFO    MainThread:16684 [wandb_setup.py:_flush():80] Loading settings from D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\settings
+2025-12-29 19:36:18,299 INFO    MainThread:16684 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-12-29 19:36:18,299 INFO    MainThread:16684 [wandb_init.py:setup_run_log_directory():714] Logging user logs to D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\run-20251229_193618-8lfesdln\logs\debug.log
+2025-12-29 19:36:18,385 INFO    MainThread:16684 [wandb_init.py:setup_run_log_directory():715] Logging internal logs to D:\★박진권★\★고려대학교★\4-2 정리해야함\지능로봇공학(영강)\final\UR5\wandb\run-20251229_193618-8lfesdln\logs\debug-internal.log
+2025-12-29 19:36:18,395 INFO    MainThread:16684 [wandb_init.py:init():841] calling init triggers
+2025-12-29 19:36:18,395 INFO    MainThread:16684 [wandb_init.py:init():846] wandb.init called with sweep_config: {}
+config: {'exp_name': 'ppo_continuous_action_v2_1', 'seed': 1, 'torch_deterministic': True, 'cuda': True, 'track': True, 'wandb_project_name': 'ur5', 'wandb_entity': None, 'capture_video': False, 'save_model': True, 'upload_model': False, 'hf_entity': '', 'env_id': 'UR5-ppo-v2-1', 'total_timesteps': 2000000, 'learning_rate': 5e-05, 'num_envs': 8, 'num_steps': 2048, 'anneal_lr': True, 'gamma': 0.99, 'gae_lambda': 0.95, 'num_minibatches': 32, 'update_epochs': 10, 'norm_adv': True, 'clip_coef': 0.2, 'clip_vloss': True, 'ent_coef': 0.003, 'vf_coef': 0.5, 'max_grad_norm': 0.5, 'target_kl': None, 'target_mode': 'random', 'target_pos': None, 'batch_size': 16384, 'minibatch_size': 512, 'num_iterations': 122, '_wandb': {'code_path': 'code/cleanrl/cleanrl/ppo_continuous_action_v2_1.py'}}
+2025-12-29 19:36:18,395 INFO    MainThread:16684 [wandb_init.py:init():889] starting backend
+2025-12-29 19:36:21,208 INFO    MainThread:16684 [wandb_init.py:init():892] sending inform_init request
+2025-12-29 19:36:21,243 INFO    MainThread:16684 [wandb_init.py:init():900] backend started and connected
+2025-12-29 19:36:21,297 INFO    MainThread:16684 [wandb_init.py:init():970] updated telemetry
+2025-12-29 19:36:21,355 INFO    MainThread:16684 [wandb_init.py:init():994] communicating run to backend with 90.0 second timeout
+2025-12-29 19:36:22,627 INFO    MainThread:16684 [wandb_init.py:init():1041] starting run threads in backend
+2025-12-29 19:36:29,838 INFO    MainThread:16684 [wandb_run.py:_console_start():2521] atexit reg
+2025-12-29 19:36:29,839 INFO    MainThread:16684 [wandb_run.py:_redirect():2369] redirect: wrap_raw
+2025-12-29 19:36:29,840 INFO    MainThread:16684 [wandb_run.py:_redirect():2438] Wrapping output streams.
+2025-12-29 19:36:29,841 INFO    MainThread:16684 [wandb_run.py:_redirect():2461] Redirects installed.
+2025-12-29 19:36:29,867 INFO    MainThread:16684 [wandb_init.py:init():1081] run started, returning control to user process
+2025-12-29 19:36:29,869 INFO    MainThread:16684 [wandb_run.py:_tensorboard_callback():1607] tensorboard callback: runs/UR5-ppo-v2-1__ppo_continuous_action_v2_1__1__1767004575, True
+2025-12-29 22:37:01,349 INFO    wandb-AsyncioManager-main:16684 [service_client.py:_forward_responses():80] Reached EOF.
+2025-12-29 22:37:01,366 INFO    wandb-AsyncioManager-main:16684 [mailbox.py:close():137] Closing mailbox, abandoning 1 handles.
