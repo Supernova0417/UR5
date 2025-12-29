@@ -216,6 +216,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Author:** Jinkwon Park (2020170644)  
+**Author:** Jinkwon Park  
 **Course:** MECH485 - Intelligent Robotics, Korea University  
-**Date:** December 2025
+**Date:** 28, December, 2025
